@@ -9,6 +9,8 @@ print("value is {}".format(5))
 a = 5
 if a < 4:
     print("Yes")
+elif a == 5:
+    print("Equals")
 else:
     print("No")
 
